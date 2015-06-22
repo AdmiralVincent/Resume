@@ -1,0 +1,5 @@
+Dallas	65F	S-6mph	Dallas.jpg
+LA	61F	E-5mph	LA.jpg
+Seattle	32F	Calm	Seattle.jpg
+NY	52F	W-6mph	NY.jpg
+Tampa	62F	Calm	Tampa.jpg
